@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 19 12:20:22 2021
 
-@author: shrey
-"""
 
 import os
 import sys
